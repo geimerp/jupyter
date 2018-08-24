@@ -1,4 +1,4 @@
-# jupyter
-Shared Notebooks
+# Jupyter notebooks
+live in this repository
 
-Jupyter notebook folder
+
